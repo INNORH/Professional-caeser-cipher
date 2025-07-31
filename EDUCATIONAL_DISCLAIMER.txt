@@ -1,0 +1,84 @@
+===============================================================================
+                        EDUCATIONAL PURPOSE DISCLAIMER
+===============================================================================
+
+⚠️  IMPORTANT NOTICE: FOR EDUCATIONAL USE ONLY  ⚠️
+
+This Caesar Cipher implementation is provided strictly for educational and 
+learning purposes. It is designed to help students, developers, and enthusiasts 
+understand the fundamentals of cryptography and historical encryption methods.
+
+===============================================================================
+                              SECURITY WARNING
+===============================================================================
+
+🔒 CRYPTOGRAPHIC WEAKNESS:
+The Caesar cipher is cryptographically WEAK and provides NO real security. 
+It can be easily broken using:
+- Frequency analysis
+- Brute force attacks (only 26 possible keys)
+- Pattern recognition
+- Statistical analysis
+
+🚫 DO NOT USE FOR:
+- Protecting sensitive information
+- Securing passwords or personal data
+- Any real-world security applications
+- Commercial or production systems
+- Confidential communications
+
+✅ APPROPRIATE USES:
+- Learning cryptography concepts
+- Understanding historical encryption methods
+- Educational demonstrations
+- Programming practice
+- Academic coursework
+- Puzzle games and entertainment
+
+===============================================================================
+                              LEGAL DISCLAIMER
+===============================================================================
+
+The authors and contributors of this software are not responsible for any 
+misuse of this implementation. Users are solely responsible for ensuring 
+compliance with applicable laws and regulations in their jurisdiction.
+
+This software is provided "AS IS" without warranty of any kind, express or 
+implied, including but not limited to the warranties of merchantability, 
+fitness for a particular purpose, and non-infringement.
+
+===============================================================================
+                            EDUCATIONAL OBJECTIVES
+===============================================================================
+
+This implementation is designed to teach:
+- Basic cryptographic concepts
+- Substitution cipher mechanics
+- Python programming best practices
+- Algorithm implementation
+- Testing and documentation
+- Software engineering principles
+
+===============================================================================
+                              RECOMMENDATIONS
+===============================================================================
+
+For real-world security needs, please use:
+- AES (Advanced Encryption Standard)
+- RSA for asymmetric encryption
+- Modern cryptographic libraries (e.g., cryptography, PyCrypto)
+- Industry-standard protocols (TLS, SSL)
+- Properly implemented key management systems
+
+===============================================================================
+
+📚 Learn More About Cryptography:
+- "Applied Cryptography" by Bruce Schneier
+- "Cryptography Engineering" by Ferguson, Schneier, and Kohno
+- NIST Cryptographic Standards and Guidelines
+- Modern Cryptography courses and certifications
+
+Date: July 30, 2025
+Version: 1.0
+
+===============================================================================

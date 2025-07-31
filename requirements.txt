@@ -1,0 +1,19 @@
+# Professional Caesar Cipher - Python Dependencies
+# 
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Python version compatibility: 3.6+
+#
+# Standard library modules used:
+# - string (for alphabet constants)
+# - typing (for type hints)
+# - argparse (for command line interface)
+# - sys (for system operations)
+# - unittest (for testing)
+#
+# For development/testing (optional):
+# pytest>=6.0.0  # Alternative test runner
+# black>=21.0.0   # Code formatter
+# flake8>=3.8.0   # Linting
+# mypy>=0.800     # Type checking
